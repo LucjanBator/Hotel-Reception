@@ -1,0 +1,19 @@
+
+n
+java:S1192"SDefine a constant instead of duplicating this literal "Enter room number:" 4 times.(Ğö®ûÿÿÿÿ
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ë Ìë8…ƒ›»¾1
+D
+java:S2189""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8í÷Ô»¾1
+@	java:S106"+Replace this use of System.out by a logger.(ò‘Ã¼
+E	java:S106"+Replace this use of System.out by a logger.(Ğö®ûÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(Ğö®ûÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(Šç¯ˆøÿÿÿÿ
+E	java:S106#"+Replace this use of System.out by a logger.(Ğö®ûÿÿÿÿ
+E	java:S106)"+Replace this use of System.out by a logger.(ÀØ©Ûşÿÿÿÿ
+@	java:S106,"+Replace this use of System.out by a logger.(œß¿é
+@	java:S106/"+Replace this use of System.out by a logger.(’—¡„
+E	java:S1064"+Replace this use of System.out by a logger.(Ğö®ûÿÿÿÿ
+E	java:S1067"+Replace this use of System.out by a logger.(“¿Üèùÿÿÿÿ
+E	java:S1069"+Replace this use of System.out by a logger.(”ÈçÛùÿÿÿÿ
+E	java:S106?"+Replace this use of System.out by a logger.(„ø®ıÿÿÿÿ
+E	java:S106C"+Replace this use of System.out by a logger.(Š°ù¾ùÿÿÿÿ
